@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ashutosh Singh! 👋
 
-<!--
-**Ashutosh-singh03/Ashutosh-Singh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | MERN Stack | DSA Enthusiast  
+🚀 Passionate about building scalable web applications  
+🎯 Currently working on: [Bidify](https://github.com/your-repo)  
 
-Here are some ideas to get you started:
+## 🔥 My Skills
+- **Languages:** JavaScript, C++, Python  
+- **Frontend:** React.js, HTML, CSS  
+- **Backend:** Node.js, Express.js, MongoDB, MySQL, Sequelize  
+- **Tools & DevOps:** Git, GitHub, Docker, Postman  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-singh03&show_icons=true&theme=radical)
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ashutosh-singh03&theme=radical)
