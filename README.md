@@ -10,6 +10,7 @@
 - **Backend:** Node.js, Express.js, MongoDB, MySQL, Sequelize  
 - **Tools & DevOps:** Git, GitHub, Docker, Postman  
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ashutoshsingh.ashutoshsingh)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-singh03&layout=compact&theme=dark)
